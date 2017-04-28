@@ -1,0 +1,26 @@
+{
+  "name": "qewd-hl72json",
+  "version": "1.0.0",
+  "description": "Transforms HL7 messages to JSON, using the hl7-dictionary module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hl7-dictionary": "",
+    "moment": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtweed/qewd-hl72json.git"
+  },
+  "author": "Rob Tweed, M/Gateway Developments Ltd",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "uuid": ""
+  },
+  "bugs": {
+    "url": "https://github.com/robtweed/qewd-hl72json/issues"
+  },
+  "homepage": "https://github.com/robtweed/qewd-hl72json#readme"
+}
